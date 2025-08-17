@@ -380,7 +380,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🌐 Portfolio: [Your Portfolio Website]
 - 💼 LinkedIn: [Your LinkedIn Profile]  
 - 📧 Email: [Your Email]
-- 🐱 GitHub: [@ahmed-essam](https://github.com/ahmed-essam)
+- 🐱 GitHub: [@ahmed-essam]([https://github.com/ahmed-essam](https://github.com/AhmedEssam29))
 
 ---
 
