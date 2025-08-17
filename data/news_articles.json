@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "AI Breakthrough in Medical Diagnosis",
+      "content": "Researchers have developed a new artificial intelligence system that can diagnose diseases with unprecedented accuracy. The machine learning model was trained on millions of medical images and can identify conditions that human doctors might miss."
+    },
+    {
+      "id": 2,
+      "title": "Climate Change and Renewable Energy",
+      "content": "Scientists warn that immediate action is needed to combat climate change. Renewable energy technologies such as solar and wind power are becoming more efficient and cost-effective alternatives to fossil fuels."
+    },
+    {
+      "id": 3,
+      "title": "Technology Sector Growth",
+      "content": "The technology sector continues to show strong growth driven by advances in artificial intelligence, cloud computing, and mobile applications. Investors are particularly interested in companies developing innovative software solutions."
+    },
+    {
+      "id": 4,
+      "title": "Education and Digital Learning",
+      "content": "Educational institutions are embracing digital transformation with online learning platforms and interactive tools. Students can now access high-quality education from anywhere in the world through internet-connected devices."
+    },
+    {
+      "id": 5,
+      "title": "Space Exploration Missions",
+      "content": "Space agencies are planning ambitious missions to explore Mars and other planets. Advanced robotics and artificial intelligence will play crucial roles in these scientific expeditions to understand our solar system."
+    }
+  ]
+}
